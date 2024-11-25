@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "employees": [
+    {
+      "id": "8506",
+      "name": "ÁD",
+      "email": "ÁD",
+      "phone": "ÁD",
+      "department": "ÁD"
+    },
+    {
+      "id": "a8c8",
+      "name": "ƯERW",
+      "email": "ẺWE",
+      "phone": "RƯER",
+      "department": "ƯER"
+    },
+    {
+      "id": "55df",
+      "name": "123",
+      "email": "123@gmail.com",
+      "phone": "12312",
+      "department": "123"
+    },
+    {
+      "id": "19ab",
+      "name": "phát",
+      "email": "rnd8@wows.vn",
+      "phone": "0383585436",
+      "department": "dfgdfgd"
+    },
+    {
+      "id": "8cdc",
+      "name": "sda",
+      "email": "rnd8@wows.vn",
+      "phone": "0383585436",
+      "department": "dfsdfs"
+    },
+    {
+      "id": "c73e",
+      "name": "hrh",
+      "email": "info@wows.vn",
+      "phone": "rhr",
+      "department": "rhrth"
+    },
+    {
+      "id": "06ed",
+      "name": "hrh1",
+      "email": "info@wows.vn",
+      "phone": "rhr",
+      "department": "rhrth"
+    },
+    {
+      "id": "7821",
+      "name": "Ninh Phước",
+      "email": "ninhphuoc@phuocnv.io.vn",
+      "phone": "123",
+      "department": "R&D"
+    },
+    {
+      "id": "6aa0",
+      "name": "dsf",
+      "email": "rnd8@wows.vn",
+      "phone": "0383585436",
+      "department": "dfsdfs"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": "1f1e",
+      "name": "123",
+      "price": "123",
+      "category": "123",
+      "stock": "123"
+    }
+  ]
+}
